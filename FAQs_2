@@ -1,0 +1,6 @@
+1. How do Transformer models work in Generative AI?
+Transformer models use attention mechanisms to process and generate data sequences, such as text. They learn contextual relationships between words, enabling them to create coherent and contextually relevant content.
+
+2. Which Generative AI model is best for creating text?
+The GPT (Generative Pre-trained Transformer) series, especially GPT-3, is the best model for generating high-quality, human-like text.
+
