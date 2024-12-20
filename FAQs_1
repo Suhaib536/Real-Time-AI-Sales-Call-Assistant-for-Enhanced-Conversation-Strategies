@@ -1,0 +1,21 @@
+
+1. How does generative AI differ from other types of AI?
+Generative AI differs from other types of AI by its ability to generate new and original content, such as images, text, or music, based on patterns learned from training data, showcasing creativity and innovation.
+
+2. What are the ethical considerations in generative AI?
+One of the most commonly asked question after what is generative AI is the ethical consideration. Ethical considerations in generative AI include the potential for misuse, the creation of deceptive content, the preservation of privacy and consent, addressing biases in training data, and ensuring responsible and transparent deployment.
+
+3. Is generative AI capable of generating biased content?
+Yes, generative AI can potentially generate biased content if it is trained on biased or unrepresentative datasets. The biases present in the training data can be learned and perpetuated by the generative model, resulting in generated outputs that reflect those biases. It is essential to carefully curate and address biases in the training data to mitigate this issue and promote fairness in generative AI applications.
+
+4. Can generative AI replace human creativity?
+Generative AI has the potential to assist and enhance human creativity, but it is unlikely to completely replace human creativity. While generative AI can generate new content and offer novel ideas, it lacks the depth of human emotions, experiences, and intuition that are integral to creative expression.
+
+5. Is ChatGPT a generative AI?
+Yes, ChatGPT is a generative AI that produces text-based responses.
+
+6. Is chatbot a generative AI?
+Not all chatbots are generative AI; some follow pre-set rules, while others like ChatGPT use generative models.
+
+7. Is Alexa a generative AI?
+Alexa uses some generative AI techniques but mainly relies on rule-based systems for voice interaction.
