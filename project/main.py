@@ -22,7 +22,7 @@ except LookupError:
 sia = SentimentIntensityAnalyzer()
 
 # Set up Google Gemini API key
-GEMINI_API_KEY = "AIzaSyDZgsr_nkXi8KT7f4mNe5NGIRdHdA_xwVo"
+GEMINI_API_KEY = "YOUR API KEY GOES HERE"
 genai.configure(api_key=GEMINI_API_KEY)
 
 class AI_Project_Functions:
@@ -399,4 +399,5 @@ elif page == "Admin Panel":
 
 # Footer
 st.markdown("---")
+
 st.write("© 2025 AI Sales Call Assistant. All rights reserved.")
